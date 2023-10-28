@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "playwright": "^1.39.0",
+    "random-useragent": "^0.5.0"
+  },
+  "name": "scraping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "scraper": "node scraper.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.39.0",
+    "@types/node": "^20.8.9"
+  }
+}
